@@ -1,2 +1,2 @@
-# ENCODER READING
- ENCODER SIGNAL READING FOR RHINO IG52 DC GEARED MOTOR
+# ENCODER 
+ Encoder reading as position feedback for IG52 DC Geared motor 
