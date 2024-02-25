@@ -34,7 +34,7 @@ void setup() {
 
 void loop() {
 
-  setMotor(1, 255); 
+  setMotor(-1, 255); 
   Serial.println(pos);
 
 }
